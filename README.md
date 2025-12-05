@@ -1,7 +1,7 @@
 # GLOBAL TREND – API Integration Internship Assignment
 
 ## Overview
-This is a Node.js application that:
+This is a Node.js mini-application that:
 - Fetches data from two public API endpoints
 - Stores the data in a local cache file (cache.json)
 - Provides CLI commands to list and filter data
@@ -14,10 +14,7 @@ This is a Node.js application that:
 
 ### 1. Install Required Packages
 ```js
-mkdir global_trend_api_integration_assignment
-cd global_trend_api_integration_assignment
 npm insall express axios
-node app.js
 ```
 
 ### 2. Run Commands to Fetch and cache data
